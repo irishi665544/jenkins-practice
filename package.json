@@ -1,0 +1,10 @@
+{
+  "name": "jenkins-practice",
+  "version": "1.0.0",
+  "description": "Jenkins CI/CD practice application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node --check app.js"
+  }
+}
